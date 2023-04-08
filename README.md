@@ -1,6 +1,6 @@
 # H-Bridge
 
-##Componenets:
+## Components:
 - 4N25 - 6 PIN DIP PHOTOTRANSISTOR PHOTOCOUPLER 
 - AO3401A - P-Channel MOSFETs
 - FDS6630A - N-Channel MOSFET
